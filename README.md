@@ -118,10 +118,15 @@ The Jenkins pipeline successfully performs:
 * Docker Hub integration
 * Automated deployment workflows
 
+## Screenshots
+* Build success
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3950849d-e729-470b-80e7-3150104cce18" />
+* Docker images and running container
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0b434e82-8031-4a49-aa87-1eee3b90e622" />
+* Final application
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a5520c7c-4ff7-4b28-a99e-b1bee1d18ef7" />
+
+
 ## Author
 
 Monish S
-
-
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a5520c7c-4ff7-4b28-a99e-b1bee1d18ef7" />
-
